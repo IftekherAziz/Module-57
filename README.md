@@ -1,4 +1,4 @@
-# Assignment Task: https://papaya-choux-fa4f6e.netlify.app/
+# Assignment Task: 
 
 1. Header:  
  - Change name of logo
