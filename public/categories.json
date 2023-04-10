@@ -1,21 +1,25 @@
 {
   "job_categories": [
     {
-      "image_url": "https://ibb.co/0jD5t5F",
+      "id": 1,
+      "image_url": "https://ibb.co/tX1yC1v",
       "name": "Software Developer",
       "quantity": 50
     },
     {
+      "id": 2,
       "image_url": "https://ibb.co/tX1yC1v",
       "name": "Data Analyst",
       "quantity": 25
     },
     {
+      "id": 3,
       "image_url": "https://ibb.co/qmkKPt5",
       "name": "Marketing Manager",
       "quantity": 10
     },
     {
+      "id": 4,
       "image_url": "https://ibb.co/pfdPjLg",
       "name": "Customer Support Representative",
       "quantity": 30
